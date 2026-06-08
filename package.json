@@ -1,4 +1,9 @@
-"scripts": {
-  "start": "node server.js",
-  "test": "jest"
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  }
 }
